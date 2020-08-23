@@ -1,0 +1,5 @@
+package Authentication
+
+func Redirecto() {
+	
+}
